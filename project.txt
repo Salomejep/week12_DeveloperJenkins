@@ -1,0 +1,7 @@
+public_ip = 3.91.25.216
+private_ip = 172.31.25.38
+private_dns = ip-172-31-25-38.ec2.internal
+public_dns = ec2-3-91-25-216.compute-1.amazonaws.com
+key_name = privatekeypair
+security_groups = launch-wizard-5
+security_group_ids = sg-00fad9035131806dc
